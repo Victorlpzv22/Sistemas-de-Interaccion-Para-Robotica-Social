@@ -1,0 +1,505 @@
+I:\GRAFICOS\ISSR\ISSR_AgentsDev\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Assembly-CSharp.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Assembly-CSharp.pdb
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Boo.Lang.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\mscorlib.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\System.Core.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\System.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\System.Runtime.Serialization.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\System.Xml.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\System.Xml.Linq.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Unity.Locator.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEditor.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.AIModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.Analytics.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ARModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.AudioModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ClothModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.CoreModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.GridModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.HoloLens.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.InputModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.Networking.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.Purchasing.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.Timeline.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.TLSModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UI.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UIModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UNETModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.VideoModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.VRModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.WebModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.WindModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.XRModule.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityScript.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityScript.Lang.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Unity.Cecil.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Unity.SerializationLogic.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Unity.DataContract.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\ExCSS.Unity.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Boo.Lang.Parser.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Boo.Lang.Compiler.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Unity.UNetWeaver.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Unity.IvyParser.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Boo.Lang.Useful.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Unity.CecilTools.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEditor.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.AIModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ARModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.AudioModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ClothModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.CoreModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.GridModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.InputModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.TLSModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UIModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UNETModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.VRModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.VideoModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.WebModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.WindModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.XRModule.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UI.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.Networking.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.Timeline.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.HoloLens.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\obj\Debug\Assembly-CSharp.dll
+I:\GRAFICOS\ISSR\Prácticas18-19\ProyUnity\ISSR_Unity18-19\obj\Debug\Assembly-CSharp.pdb
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Assembly-CSharp.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Assembly-CSharp.pdb
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Boo.Lang.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\mscorlib.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\System.Core.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\System.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\System.Runtime.Serialization.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\System.Xml.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\System.Xml.Linq.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Unity.Locator.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEditor.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.AIModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.Analytics.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ARModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.AudioModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ClothModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.CoreModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.GridModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.HoloLens.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.InputModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.Networking.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.Purchasing.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.Timeline.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.TLSModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UI.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UIModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UNETModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.VideoModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.VRModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.WebModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.WindModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.XRModule.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityScript.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityScript.Lang.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Unity.Cecil.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Unity.SerializationLogic.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Unity.DataContract.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\ExCSS.Unity.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Boo.Lang.Parser.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Boo.Lang.Compiler.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Unity.UNetWeaver.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Unity.IvyParser.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Boo.Lang.Useful.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Unity.CecilTools.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEditor.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.AIModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ARModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.AudioModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ClothModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.CoreModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.GridModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.InputModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.TLSModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UIModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UNETModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.VRModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.VideoModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.WebModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.WindModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.XRModule.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UI.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.Networking.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.Timeline.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.HoloLens.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\obj\Debug\Assembly-CSharp.dll
+I:\docente\ISSR\Practicas 19-20\ISSR_Unity19-20\obj\Debug\Assembly-CSharp.pdb
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Assembly-CSharp.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Boo.Lang.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\mscorlib.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\System.Core.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\System.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\System.Runtime.Serialization.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\System.Xml.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\System.Xml.Linq.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Unity.Locator.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEditor.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UI.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.WebModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityScript.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityScript.Lang.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Unity.Cecil.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Unity.DataContract.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\ExCSS.Unity.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Boo.Lang.Parser.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Boo.Lang.Compiler.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Unity.IvyParser.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Boo.Lang.Useful.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Unity.CecilTools.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEditor.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.WebModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UI.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\obj\Debug\Assembly-CSharp.dll
+E:\docente\ISSR\20-21\proyectos\ISSR_Unity20-21era\obj\Debug\Assembly-CSharp.pdb

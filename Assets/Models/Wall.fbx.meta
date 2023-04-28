@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: bdfd504916f87524fadaa1c4d76ad05f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AgentPos
+    100004: arm.L
+    100006: arm.L_end
+    100008: arm.R
+    100010: arm.R_end
+    100012: BigStone
+    100014: Bot
+    100016: BotSkeleton
+    100018: Camera
+    100020: CameraForLOGO
+    100022: chest
+    100024: ChristmasTree
+    100026: CTReeDecorations
+    100028: foot.L
+    100030: foot.L_end
+    100032: foot.R
+    100034: foot.R_end
+    100036: Goal
+    100038: head
+    100040: head_end
+    100042: Lamp
+    100044: SCHat
+    100046: SmallStone
+    100048: spine
+    100050: Wall
+    400000: //RootNode
+    400002: AgentPos
+    400004: arm.L
+    400006: arm.L_end
+    400008: arm.R
+    400010: arm.R_end
+    400012: BigStone
+    400014: Bot
+    400016: BotSkeleton
+    400018: Camera
+    400020: CameraForLOGO
+    400022: chest
+    400024: ChristmasTree
+    400026: CTReeDecorations
+    400028: foot.L
+    400030: foot.L_end
+    400032: foot.R
+    400034: foot.R_end
+    400036: Goal
+    400038: head
+    400040: head_end
+    400042: Lamp
+    400044: SCHat
+    400046: SmallStone
+    400048: spine
+    400050: Wall
+    2300000: //RootNode
+    2300002: AgentPos
+    2300004: BigStone
+    2300006: Bot
+    2300008: ChristmasTree
+    2300010: CTReeDecorations
+    2300012: Goal
+    2300014: SCHat
+    2300016: SmallStone
+    2300018: Wall
+    3300000: //RootNode
+    3300002: AgentPos
+    3300004: BigStone
+    3300006: Bot
+    3300008: ChristmasTree
+    3300010: CTReeDecorations
+    3300012: Goal
+    3300014: SCHat
+    3300016: SmallStone
+    3300018: Wall
+    4300000: Wall
+    4300002: CTReeDecorations
+    4300004: ChristmasTree
+    4300006: AgentPos
+    4300008: Goal
+    4300010: BigStone
+    4300012: SCHat
+    4300014: Bot
+    4300016: SmallStone
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

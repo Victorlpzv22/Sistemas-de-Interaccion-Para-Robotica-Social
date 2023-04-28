@@ -1,0 +1,43 @@
+Downloaded from freesound.org
+
+http://freesound.org/people/SpliceSound/sounds/218318/
+218318__splicesound__referee-whistle-blow-gymnasium.wav--> start_whistle.ogg
+
+http://freesound.org/people/kickhat/sounds/342897/
+342759__rhodesmas__score-counter-01.wav  --- score.ogg
+
+http://freesound.org/people/Slanesh/sounds/31780/
+31780__slanesh__bip.wav  --- bip_bip.ogg
+
+http://freesound.org/people/FoolBoyMedia/sounds/234526/
+234526__foolboymedia__announcement-end.wav --->   end.ogg
+
+http://freesound.org/people/fins/sounds/171672/
+171671__fins__success-1.wav   success.ogg
+
+http://freesound.org/people/fins/sounds/171671/
+171672__fins__failure-2.wav    failure.ogg
+
+https://freesound.org/people/RandomationGames/sounds/138487/
+138487__randomationgames__shield-hit.wav  grip.ogg
+
+https://freesound.org/people/Sruddi1/sounds/34875/
+34875__sruddi1__grunts.wav  body_hit.ogg
+
+https://freesound.org/people/pfranzen/sounds/423215/
+423215__pfranzen__punching-someone-and-dragging-them-away-with-gah.wav body_hit_ungrip.ogg
+
+https://freesound.org/people/MegaPenguin13/sounds/118199/
+118199__megapenguin13__bottles-clinking.aiff  collsion_small_small.ogg
+
+https://freesound.org/people/philberts/sounds/171743/
+171743__philberts__propane-tank-deep-hit-2.wav  collision_big.ogg
+
+https://freesound.org/people/Lalks/sounds/316847/
+316847__lalks__alarm-04-short.wav  many_collisions.ogg
+
+https://freesound.org/people/Ev-Dawg/sounds/347951/
+347951__ev-dawg__pulse-hit.wav collision_body_small.ogg
+
+https://freesound.org/people/TROLlox_78/sounds/274119/
+274119__trollox-78__hit-someting.mp3   collision_big1.ogg

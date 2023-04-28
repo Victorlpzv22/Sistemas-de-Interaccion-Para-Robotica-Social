@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: 50f592e197717074d85451441e5692f6
+timeCreated: 1477171937
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm.L
+    100002: arm.L_end
+    100004: arm.R
+    100006: arm.R_end
+    100008: Bot
+    100010: //RootNode
+    100012: BotSkeleton
+    100014: chest
+    100016: foot.L
+    100018: foot.L_end
+    100020: foot.R
+    100022: foot.R_end
+    100024: head
+    100026: head_end
+    100028: spine
+    400000: arm.L
+    400002: arm.L_end
+    400004: arm.R
+    400006: arm.R_end
+    400008: Bot
+    400010: //RootNode
+    400012: BotSkeleton
+    400014: chest
+    400016: foot.L
+    400018: foot.L_end
+    400020: foot.R
+    400022: foot.R_end
+    400024: head
+    400026: head_end
+    400028: spine
+    4300000: Bot
+    7400000: BotSkeleton|ArmatureAction
+    7400002: BotSkeleton|Bot_IDLE_60
+    7400004: BotSkeleton|Bot_WALK_25
+    7400006: BotSkeleton|PUSHBW25
+    7400008: BotSkeleton|PUSHFW25
+    7400010: BotSkeleton|PUSHLF25
+    7400012: BotSkeleton|PUSHRG25
+    7400014: BotSkeleton|IDLE60
+    7400016: BotSkeleton|WALK25
+    7400018: BotSkeleton|IDLEPUSH60
+    7400020: BotSkeleton|WALKGRIP25
+    7400022: BotSkeleton|IDLE88_LL
+    7400024: BotSkeleton|IDLE88_LR
+    7400026: BotSkeleton|WAVES88
+    7400028: BotSkeleton|IDLE88_LD
+    7400030: BotSkeleton|IDLE88_LU
+    7400032: BotSkeleton|HEADLL
+    7400034: BotSkeleton|HEADLR
+    7400036: BotSkeleton|HEAD
+    7400038: BotSkeleton|IDLE_LOOSE60
+    7400040: BotSkeleton|IDLEWIN60
+    7400042: BotSkeleton|IDLEROTATE60
+    9500000: //RootNode
+    13700000: Bot
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BotSkeleton|IDLE60
+      takeName: BotSkeleton|IDLE60
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|WALK25
+      takeName: BotSkeleton|WALK25
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L/arm.L_end
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R/arm.R_end
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/chest/head/head_end
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.L/foot.L_end
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      - path: BotSkeleton/spine/foot.R/foot.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|PUSHBW25
+      takeName: BotSkeleton|PUSHBW25
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|PUSHFW25
+      takeName: BotSkeleton|PUSHFW25
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|PUSHLF25
+      takeName: BotSkeleton|PUSHLF25
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|PUSHRG25
+      takeName: BotSkeleton|PUSHRG25
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|IDLEPUSH60
+      takeName: BotSkeleton|IDLEPUSH60
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|WALKGRIP25
+      takeName: BotSkeleton|WALKGRIP25
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|IDLE88_LL
+      takeName: BotSkeleton|IDLE88_LL
+      firstFrame: 0
+      lastFrame: 86
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|IDLE88_LR
+      takeName: BotSkeleton|IDLE88_LR
+      firstFrame: 0
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|WAVES88
+      takeName: BotSkeleton|WAVES88
+      firstFrame: 0
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|IDLE88_LD
+      takeName: BotSkeleton|IDLE88_LD
+      firstFrame: 0
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|IDLE88_LU
+      takeName: BotSkeleton|IDLE88_LU
+      firstFrame: 0
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|HEADLL
+      takeName: BotSkeleton|HEADLL
+      firstFrame: 0
+      lastFrame: 86
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|HEADLR
+      takeName: BotSkeleton|HEADLR
+      firstFrame: 0
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|HEAD
+      takeName: BotSkeleton|HEADLL
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|IDLE_LOOSE60
+      takeName: BotSkeleton|IDLE_LOOSE60
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|IDLEWIN60
+      takeName: BotSkeleton|IDLEWIN60
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BotSkeleton|IDLEROTATE60
+      takeName: BotSkeleton|IDLEROTATE60
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bot
+        weight: 1
+      - path: BotSkeleton
+        weight: 1
+      - path: BotSkeleton/spine
+        weight: 1
+      - path: BotSkeleton/spine/chest
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.L
+        weight: 1
+      - path: BotSkeleton/spine/chest/arm.R
+        weight: 1
+      - path: BotSkeleton/spine/chest/head
+        weight: 1
+      - path: BotSkeleton/spine/foot.L
+        weight: 1
+      - path: BotSkeleton/spine/foot.R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
